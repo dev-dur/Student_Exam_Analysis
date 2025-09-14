@@ -23,9 +23,10 @@ The project generates random student exam scores, analyzes them, and visualizes 
 ```
 student-exam-analysis/
 │
-├── student_analysis.py   # Main project script
-├── student_scores.png    # Saved figure (auto-generated)
-└── README.md             # Project documentation
+├── student_analysis.py    # Main project script
+├── student_scores.png     # Saved figure (auto-generated)
+└── requirements.txt       # Dependencies
+ 
 ```
 
 ## ⚡ How to Run
