@@ -74,8 +74,3 @@ A bar chart comparing Math and Science scores for each student.
 * Add more subjects (English, History, etc.)
 * Generate summary reports
 * Export results to Excel
-
-
-## 👩‍💻 Author
-
-Created with ❤️ by [DurE]([https://github.com/dev-dur])
